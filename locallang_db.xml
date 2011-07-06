@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'mfi_addresschanger'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pages.tx_mfiaddresschanger_address.I.0">from parent page</label>
+			<label index="pages.tx_mfiaddresschanger_address.I.1">no address</label>
+			<label index="pages.tx_mfiaddresschanger_address.I.2">choose address</label>
+			<label index="pages.tx_mfiaddresschanger_address">Address Type:</label>
+			<label index="pages.tx_mfiaddresschanger_company">Company:</label>
+			<label index="pages.tx_mfiaddresschanger_address1">Address 1:</label>
+			<label index="pages.tx_mfiaddresschanger_address2">Address 2:</label>
+			<label index="pages.tx_mfiaddresschanger_phone">Phone:</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="pages.tx_mfiaddresschanger_address.I.0">de la page parente</label>
+			<label index="pages.tx_mfiaddresschanger_address.I.1">pas d'adresse</label>
+			<label index="pages.tx_mfiaddresschanger_address.I.2">définir une adresse</label>
+			<label index="pages.tx_mfiaddresschanger_address">Type d'adresse:</label>
+			<label index="pages.tx_mfiaddresschanger_company">Société:</label>
+			<label index="pages.tx_mfiaddresschanger_address1">Adresse 1:</label>
+			<label index="pages.tx_mfiaddresschanger_address2">Adresse 2:</label>
+			<label index="pages.tx_mfiaddresschanger_phone">Téléphone:</label>
+		</languageKey>
+	</data>
+</T3locallang>
